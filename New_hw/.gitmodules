@@ -1,0 +1,3 @@
+[submodule "12. Haar/opencv"]
+	path = 12. Haar/opencv
+	url = https://github.com/opencv/opencv
